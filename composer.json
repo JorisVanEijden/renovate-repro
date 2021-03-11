@@ -1,0 +1,15 @@
+{
+  "name": "jvaneijden/testrepo",
+  "description": "",
+  "license": "Unlicense",
+  "minimum-stability": "dev",
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://packages.drupal.org/8"
+    }
+  ],
+  "require": {
+    "drupal/private_message": "^2.0"
+  }
+}
